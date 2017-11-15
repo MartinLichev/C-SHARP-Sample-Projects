@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\FindingTriangleAreaInputAssigment\bin\Debug\FindingTriangleAreaInputAssigment.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\FindingTriangleAreaInputAssigment\bin\Debug\FindingTriangleAreaInputAssigment.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\FindingTriangleAreaInputAssigment\bin\Debug\FindingTriangleAreaInputAssigment.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\FindingTriangleAreaInputAssigment\obj\Debug\FindingTriangleAreaInputAssigment.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\FindingTriangleAreaInputAssigment\obj\Debug\FindingTriangleAreaInputAssigment.pdb

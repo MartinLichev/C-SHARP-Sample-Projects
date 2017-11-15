@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\GivingValueToVariablesAssigment\bin\Debug\GivingValueToVariablesAssigment.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\GivingValueToVariablesAssigment\bin\Debug\GivingValueToVariablesAssigment.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\GivingValueToVariablesAssigment\bin\Debug\GivingValueToVariablesAssigment.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\GivingValueToVariablesAssigment\obj\Debug\GivingValueToVariablesAssigment.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\GivingValueToVariablesAssigment\obj\Debug\GivingValueToVariablesAssigment.pdb
