@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingEvenNumbersFrom1To100\bin\Debug\PrintingEvenNumbersFrom1To100.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingEvenNumbersFrom1To100\bin\Debug\PrintingEvenNumbersFrom1To100.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingEvenNumbersFrom1To100\bin\Debug\PrintingEvenNumbersFrom1To100.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingEvenNumbersFrom1To100\obj\Debug\PrintingEvenNumbersFrom1To100.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingEvenNumbersFrom1To100\obj\Debug\PrintingEvenNumbersFrom1To100.pdb

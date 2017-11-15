@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\FindingTheBiggestOutOfThreeNumbers\bin\Debug\FindingTheBiggestOutOfThreeNumbers.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\FindingTheBiggestOutOfThreeNumbers\bin\Debug\FindingTheBiggestOutOfThreeNumbers.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\FindingTheBiggestOutOfThreeNumbers\bin\Debug\FindingTheBiggestOutOfThreeNumbers.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\FindingTheBiggestOutOfThreeNumbers\obj\Debug\FindingTheBiggestOutOfThreeNumbers.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\FindingTheBiggestOutOfThreeNumbers\obj\Debug\FindingTheBiggestOutOfThreeNumbers.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\FindingTheBiggestOutOfThreeNumbers\obj\Debug\FindingTheBiggestOutOfThreeNumbers.pdb

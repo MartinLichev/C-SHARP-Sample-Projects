@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingNumbersFrom1ToN\bin\Debug\PrintingNumbersFrom1ToN.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingNumbersFrom1ToN\bin\Debug\PrintingNumbersFrom1ToN.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingNumbersFrom1ToN\bin\Debug\PrintingNumbersFrom1ToN.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingNumbersFrom1ToN\obj\Debug\PrintingNumbersFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingNumbersFrom1ToN\obj\Debug\PrintingNumbersFrom1ToN.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart4\PrintingNumbersFrom1ToN\obj\Debug\PrintingNumbersFrom1ToN.pdb

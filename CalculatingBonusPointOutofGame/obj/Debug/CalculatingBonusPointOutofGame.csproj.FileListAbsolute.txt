@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\CalculatingBonusPointOutofGame\bin\Debug\CalculatingBonusPointOutofGame.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\CalculatingBonusPointOutofGame\bin\Debug\CalculatingBonusPointOutofGame.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\CalculatingBonusPointOutofGame\bin\Debug\CalculatingBonusPointOutofGame.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\CalculatingBonusPointOutofGame\obj\Debug\CalculatingBonusPointOutofGame.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\CalculatingBonusPointOutofGame\obj\Debug\CalculatingBonusPointOutofGame.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\CalculatingBonusPointOutofGame\obj\Debug\CalculatingBonusPointOutofGame.pdb
