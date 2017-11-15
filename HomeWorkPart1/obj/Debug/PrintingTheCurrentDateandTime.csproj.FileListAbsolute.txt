@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart1\HomeWorkPart1\bin\Debug\HomeWorkPart1.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart1\HomeWorkPart1\bin\Debug\HomeWorkPart1.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart1\HomeWorkPart1\bin\Debug\HomeWorkPart1.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart1\HomeWorkPart1\obj\Debug\PrintingTheCurrentDateandTime.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart1\HomeWorkPart1\obj\Debug\HomeWorkPart1.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart1\HomeWorkPart1\obj\Debug\HomeWorkPart1.pdb
