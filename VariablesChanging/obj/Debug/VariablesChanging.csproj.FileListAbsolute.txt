@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\VariablesChanging\bin\Debug\VariablesChanging.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\VariablesChanging\bin\Debug\VariablesChanging.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\VariablesChanging\bin\Debug\VariablesChanging.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\VariablesChanging\obj\Debug\VariablesChanging.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\VariablesChanging\obj\Debug\VariablesChanging.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\VariablesChanging\obj\Debug\VariablesChanging.csprojResolveAssemblyReference.cache

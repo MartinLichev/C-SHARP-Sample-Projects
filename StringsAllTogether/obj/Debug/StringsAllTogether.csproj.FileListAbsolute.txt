@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\StringsAllTogether\bin\Debug\StringsAllTogether.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\StringsAllTogether\bin\Debug\StringsAllTogether.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\StringsAllTogether\bin\Debug\StringsAllTogether.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\StringsAllTogether\obj\Debug\StringsAllTogether.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\StringsAllTogether\obj\Debug\StringsAllTogether.pdb

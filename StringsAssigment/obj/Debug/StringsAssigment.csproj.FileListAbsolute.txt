@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\Homework.part2\StringsAssigment\bin\Debug\StringsAssigment.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\Homework.part2\StringsAssigment\bin\Debug\StringsAssigment.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\Homework.part2\StringsAssigment\bin\Debug\StringsAssigment.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\Homework.part2\StringsAssigment\obj\Debug\StringsAssigment.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\Homework.part2\StringsAssigment\obj\Debug\StringsAssigment.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\Homework.part2\StringsAssigment\obj\Debug\StringsAssigment.pdb

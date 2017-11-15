@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\PersonalInfowithVariables\bin\Debug\PersonalInfowithVariables.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\PersonalInfowithVariables\bin\Debug\PersonalInfowithVariables.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\PersonalInfowithVariables\bin\Debug\PersonalInfowithVariables.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\PersonalInfowithVariables\obj\Debug\PersonalInfowithVariables.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\PersonalInfowithVariables\obj\Debug\PersonalInfowithVariables.pdb

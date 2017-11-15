@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\SumOf4numbersAssigment\bin\Debug\SumOf4numbersAssigment.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\SumOf4numbersAssigment\bin\Debug\SumOf4numbersAssigment.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\SumOf4numbersAssigment\bin\Debug\SumOf4numbersAssigment.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\SumOf4numbersAssigment\obj\Debug\SumOf4numbersAssigment.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\Homework.part2\SumOf4numbersAssigment\obj\Debug\SumOf4numbersAssigment.pdb
