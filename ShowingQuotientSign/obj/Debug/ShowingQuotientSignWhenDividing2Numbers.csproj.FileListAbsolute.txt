@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\ShowingQuotientSign\bin\Debug\ShowingQuotientSign.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\ShowingQuotientSign\bin\Debug\ShowingQuotientSign.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\ShowingQuotientSign\bin\Debug\ShowingQuotientSign.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\ShowingQuotientSign\obj\Debug\ShowingQuotientSignWhenDividing2Numbers.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\ShowingQuotientSign\obj\Debug\ShowingQuotientSign.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\ShowingQuotientSign\obj\Debug\ShowingQuotientSign.pdb

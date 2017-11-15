@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\WritingNumber(0-9)AndWriteItInEnglish\bin\Debug\WritingNumber(0-9)AndWriteItInEnglish.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\WritingNumber(0-9)AndWriteItInEnglish\bin\Debug\WritingNumber(0-9)AndWriteItInEnglish.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\WritingNumber(0-9)AndWriteItInEnglish\bin\Debug\WritingNumber(0-9)AndWriteItInEnglish.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\WritingNumber(0-9)AndWriteItInEnglish\obj\Debug\WritingNumber(0-9)AndWriteItInEnglish.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\WritingNumber(0-9)AndWriteItInEnglish\obj\Debug\WritingNumber(0-9)AndWriteItInEnglish.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\WritingNumber(0-9)AndWriteItInEnglish\obj\Debug\WritingNumber(0-9)AndWriteItInEnglish.pdb

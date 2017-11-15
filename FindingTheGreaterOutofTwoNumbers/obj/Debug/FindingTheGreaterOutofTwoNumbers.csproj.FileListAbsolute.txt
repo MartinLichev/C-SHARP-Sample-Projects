@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\FindingTheGreaterOutofTwoNumbers\bin\Debug\FindingTheGreaterOutofTwoNumbers.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\FindingTheGreaterOutofTwoNumbers\bin\Debug\FindingTheGreaterOutofTwoNumbers.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\FindingTheGreaterOutofTwoNumbers\bin\Debug\FindingTheGreaterOutofTwoNumbers.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\FindingTheGreaterOutofTwoNumbers\obj\Debug\FindingTheGreaterOutofTwoNumbers.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\FindingTheGreaterOutofTwoNumbers\obj\Debug\FindingTheGreaterOutofTwoNumbers.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\FindingTheGreaterOutofTwoNumbers\obj\Debug\FindingTheGreaterOutofTwoNumbers.pdb

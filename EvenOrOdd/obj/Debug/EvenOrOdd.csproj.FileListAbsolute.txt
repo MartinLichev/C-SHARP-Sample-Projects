@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\EvenOrOdd\obj\Debug\EvenOrOdd.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWorkPart3\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
