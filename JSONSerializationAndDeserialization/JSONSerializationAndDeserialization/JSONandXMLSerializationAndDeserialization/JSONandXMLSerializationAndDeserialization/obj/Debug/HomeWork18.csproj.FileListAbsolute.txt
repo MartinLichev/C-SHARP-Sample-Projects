@@ -1,0 +1,8 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWork18\HomeWork18\bin\Debug\HomeWork18.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWork18\HomeWork18\bin\Debug\HomeWork18.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWork18\HomeWork18\bin\Debug\HomeWork18.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWork18\HomeWork18\bin\Debug\Newtonsoft.Json.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWork18\HomeWork18\bin\Debug\Newtonsoft.Json.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWork18\HomeWork18\obj\Debug\HomeWork18.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWork18\HomeWork18\obj\Debug\HomeWork18.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\HomeWork18\HomeWork18\obj\Debug\HomeWork18.pdb
