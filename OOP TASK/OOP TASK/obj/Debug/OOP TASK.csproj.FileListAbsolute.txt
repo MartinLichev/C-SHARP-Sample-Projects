@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOP TASK\OOP TASK\bin\Debug\OOP TASK.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOP TASK\OOP TASK\obj\Debug\OOP TASK.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOP TASK\OOP TASK\bin\Debug\OOP TASK.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOP TASK\OOP TASK\bin\Debug\OOP TASK.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOP TASK\OOP TASK\obj\Debug\OOP TASK.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOP TASK\OOP TASK\obj\Debug\OOP TASK.pdb
