@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\LinqQueriesTraining\bin\Debug\LinqQueriesTraining.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\LinqQueriesTraining\bin\Debug\LinqQueriesTraining.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\LinqQueriesTraining\bin\Debug\LinqQueriesTraining.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\LinqQueriesTraining\obj\Debug\LinqQueriesTraining.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\LinqQueriesTraining\obj\Debug\LinqQueriesTraining.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\LinqQueriesTraining\obj\Debug\LinqQueriesTraining.csprojResolveAssemblyReference.cache
