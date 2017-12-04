@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheAverageOutOf10Numbers\bin\Debug\FindingTheAverageOutOf10Numbers.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheAverageOutOf10Numbers\bin\Debug\FindingTheAverageOutOf10Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheAverageOutOf10Numbers\bin\Debug\FindingTheAverageOutOf10Numbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheAverageOutOf10Numbers\obj\Debug\FindingTheAverageOutOf10Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheAverageOutOf10Numbers\obj\Debug\FindingTheAverageOutOf10Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheAverageOutOf10Numbers\obj\Debug\FindingTheAverageOutOf10Numbers.pdb

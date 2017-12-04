@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheLragestOutOf10Numbers\bin\Debug\FindingTheLragestOutOf10Numbers.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheLragestOutOf10Numbers\bin\Debug\FindingTheLragestOutOf10Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheLragestOutOf10Numbers\bin\Debug\FindingTheLragestOutOf10Numbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheLragestOutOf10Numbers\obj\Debug\FindingTheLragestOutOf10Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheLragestOutOf10Numbers\obj\Debug\FindingTheLragestOutOf10Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FindingTheLragestOutOf10Numbers\obj\Debug\FindingTheLragestOutOf10Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\DisplayingNumber4TimesInRow\bin\Debug\DisplayingNumber4TimesInRow.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\DisplayingNumber4TimesInRow\bin\Debug\DisplayingNumber4TimesInRow.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\DisplayingNumber4TimesInRow\bin\Debug\DisplayingNumber4TimesInRow.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\DisplayingNumber4TimesInRow\obj\Debug\DisplayingNumber4TimesInRow.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\DisplayingNumber4TimesInRow\obj\Debug\DisplayingNumber4TimesInRow.pdb
