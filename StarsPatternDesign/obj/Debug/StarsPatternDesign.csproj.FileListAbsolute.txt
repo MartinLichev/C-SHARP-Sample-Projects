@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\StarsPatternDesign\bin\Debug\StarsPatternDesign.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\StarsPatternDesign\bin\Debug\StarsPatternDesign.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\StarsPatternDesign\bin\Debug\StarsPatternDesign.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\StarsPatternDesign\obj\Debug\StarsPatternDesign.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\StarsPatternDesign\obj\Debug\StarsPatternDesign.pdb

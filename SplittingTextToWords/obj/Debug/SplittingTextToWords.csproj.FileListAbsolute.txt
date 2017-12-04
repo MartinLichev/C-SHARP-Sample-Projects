@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\SplittingTextToWords\bin\Debug\SplittingTextToWords.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\SplittingTextToWords\bin\Debug\SplittingTextToWords.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\SplittingTextToWords\bin\Debug\SplittingTextToWords.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\SplittingTextToWords\obj\Debug\SplittingTextToWords.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\SplittingTextToWords\obj\Debug\SplittingTextToWords.pdb
