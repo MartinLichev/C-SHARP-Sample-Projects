@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\WritingTextToFileExcludingCertainWords\bin\Debug\WritingTextToFileExcludingCertainWords.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\WritingTextToFileExcludingCertainWords\bin\Debug\WritingTextToFileExcludingCertainWords.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\WritingTextToFileExcludingCertainWords\bin\Debug\WritingTextToFileExcludingCertainWords.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\WritingTextToFileExcludingCertainWords\obj\Debug\WritingTextToFileExcludingCertainWords.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\WritingTextToFileExcludingCertainWords\obj\Debug\WritingTextToFileExcludingCertainWords.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\WritingTextToFileExcludingCertainWords\obj\Debug\WritingTextToFileExcludingCertainWords.pdb

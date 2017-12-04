@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\TrainingExercisesUsingLambdaExpressions\bin\Debug\TrainingExercisesUsingLambdaExpressions.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\TrainingExercisesUsingLambdaExpressions\bin\Debug\TrainingExercisesUsingLambdaExpressions.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\TrainingExercisesUsingLambdaExpressions\bin\Debug\TrainingExercisesUsingLambdaExpressions.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\TrainingExercisesUsingLambdaExpressions\obj\Debug\TrainingExercisesUsingLambdaExpressionsAndLinq.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\TrainingExercisesUsingLambdaExpressions\obj\Debug\TrainingExercisesUsingLambdaExpressions.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\TrainingExercisesUsingLambdaExpressions\obj\Debug\TrainingExercisesUsingLambdaExpressions.pdb
