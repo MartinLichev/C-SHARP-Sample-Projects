@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CartoonCharactersModelStoreContainer" CdmEntityContainer="TrainingDataBase2Entities">
+    <EntitySetMapping Name="CartoonMovies">
+      <EntityTypeMapping TypeName="CartoonCharactersModel.CartoonMovy">
+        <MappingFragment StoreEntitySet="CartoonMovies">
+          <ScalarProperty Name="MovieName" ColumnName="MovieName" />
+          <ScalarProperty Name="CharacterName" ColumnName="CharacterName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CartoonMovieSets">
+      <EntityTypeMapping TypeName="CartoonCharactersModel.CartoonMovieSet">
+        <MappingFragment StoreEntitySet="CartoonMovieSets">
+          <ScalarProperty Name="SetName" ColumnName="SetName" />
+          <ScalarProperty Name="SetDescription" ColumnName="SetDescription" />
+          <ScalarProperty Name="CharacterName" ColumnName="CharacterName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LooneyTunes">
+      <EntityTypeMapping TypeName="CartoonCharactersModel.LooneyTune">
+        <MappingFragment StoreEntitySet="LooneyTunes">
+          <ScalarProperty Name="CharacterName" ColumnName="CharacterName" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="FirstAppearance" ColumnName="FirstAppearance" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

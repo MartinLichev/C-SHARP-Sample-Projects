@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CartoonCharactersModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CartoonMovies">
+    <Key>
+      <PropertyRef Name="CharacterName" />
+    </Key>
+    <Property Name="MovieName" Type="varchar" MaxLength="30" />
+    <Property Name="CharacterName" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CartoonMovieSets">
+    <Key>
+      <PropertyRef Name="CharacterName" />
+    </Key>
+    <Property Name="SetName" Type="varchar" MaxLength="30" />
+    <Property Name="SetDescription" Type="text" />
+    <Property Name="CharacterName" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LooneyTunes">
+    <Key>
+      <PropertyRef Name="CharacterName" />
+    </Key>
+    <Property Name="CharacterName" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Type" Type="varchar" MaxLength="30" />
+    <Property Name="FirstAppearance" Type="int" />
+  </EntityType>
+  <EntityContainer Name="CartoonCharactersModelStoreContainer">
+    <EntitySet Name="CartoonMovies" EntityType="Self.CartoonMovies" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CartoonMovieSets" EntityType="Self.CartoonMovieSets" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LooneyTunes" EntityType="Self.LooneyTunes" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
