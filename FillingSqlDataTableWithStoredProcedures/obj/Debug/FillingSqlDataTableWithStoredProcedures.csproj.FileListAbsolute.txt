@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FillingSqlDataTableWithStoredProcedures\bin\Debug\FillingSqlDataTableWithStoredProcedures.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FillingSqlDataTableWithStoredProcedures\bin\Debug\FillingSqlDataTableWithStoredProcedures.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FillingSqlDataTableWithStoredProcedures\bin\Debug\FillingSqlDataTableWithStoredProcedures.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FillingSqlDataTableWithStoredProcedures\obj\Debug\FillingSqlDataTableWithStoredProcedures.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FillingSqlDataTableWithStoredProcedures\obj\Debug\FillingSqlDataTableWithStoredProcedures.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CSHARPPRACTICE\FillingSqlDataTableWithStoredProcedures\obj\Debug\FillingSqlDataTableWithStoredProcedures.pdb
