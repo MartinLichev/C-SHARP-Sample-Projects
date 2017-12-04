@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.pdb
