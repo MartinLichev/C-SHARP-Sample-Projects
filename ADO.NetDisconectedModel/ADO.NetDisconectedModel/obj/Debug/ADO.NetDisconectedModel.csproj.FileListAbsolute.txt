@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetDisconectedModel\ADO.NetDisconectedModel\bin\Debug\ADO.NetDisconectedModel.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetDisconectedModel\ADO.NetDisconectedModel\bin\Debug\ADO.NetDisconectedModel.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetDisconectedModel\ADO.NetDisconectedModel\bin\Debug\ADO.NetDisconectedModel.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetDisconectedModel\ADO.NetDisconectedModel\obj\Debug\ADO.NetDisconectedModel.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetDisconectedModel\ADO.NetDisconectedModel\obj\Debug\ADO.NetDisconectedModel.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetDisconectedModel\ADO.NetDisconectedModel\obj\Debug\ADO.NetDisconectedModel.pdb

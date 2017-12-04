@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetConnectedModel\ADO.NetConnectedModel\bin\Debug\ADO.NetConnectedModel.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetConnectedModel\ADO.NetConnectedModel\bin\Debug\ADO.NetConnectedModel.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetConnectedModel\ADO.NetConnectedModel\bin\Debug\ADO.NetConnectedModel.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetConnectedModel\ADO.NetConnectedModel\obj\Debug\ADO.NetConnectedModel.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetConnectedModel\ADO.NetConnectedModel\obj\Debug\ADO.NetConnectedModel.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\ADO.NetConnectedModel\ADO.NetConnectedModel\obj\Debug\ADO.NetConnectedModel.pdb
