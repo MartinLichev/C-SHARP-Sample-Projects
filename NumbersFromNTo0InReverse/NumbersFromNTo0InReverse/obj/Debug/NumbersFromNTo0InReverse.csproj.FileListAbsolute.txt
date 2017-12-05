@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\NumbersFromNTo0InReverse\NumbersFromNTo0InReverse\bin\Debug\NumbersFromNTo0InReverse.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\NumbersFromNTo0InReverse\NumbersFromNTo0InReverse\bin\Debug\NumbersFromNTo0InReverse.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\NumbersFromNTo0InReverse\NumbersFromNTo0InReverse\bin\Debug\NumbersFromNTo0InReverse.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\NumbersFromNTo0InReverse\NumbersFromNTo0InReverse\obj\Debug\NumbersFromNTo0InReverse.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\NumbersFromNTo0InReverse\NumbersFromNTo0InReverse\obj\Debug\NumbersFromNTo0InReverse.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\NumbersFromNTo0InReverse\NumbersFromNTo0InReverse\obj\Debug\NumbersFromNTo0InReverse.pdb
