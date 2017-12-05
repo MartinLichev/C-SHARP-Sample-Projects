@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TriangleOfDollarsWithNestedLoops\TriangleOfDollarsWithNestedLoops\bin\Debug\TriangleOfDollarsWithNestedLoops.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TriangleOfDollarsWithNestedLoops\TriangleOfDollarsWithNestedLoops\bin\Debug\TriangleOfDollarsWithNestedLoops.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TriangleOfDollarsWithNestedLoops\TriangleOfDollarsWithNestedLoops\bin\Debug\TriangleOfDollarsWithNestedLoops.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TriangleOfDollarsWithNestedLoops\TriangleOfDollarsWithNestedLoops\obj\Debug\TriangleOfDollarsWithNestedLoops.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\TriangleOfDollarsWithNestedLoops\TriangleOfDollarsWithNestedLoops\obj\Debug\TriangleOfDollarsWithNestedLoops.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TriangleOfDollarsWithNestedLoops\TriangleOfDollarsWithNestedLoops\obj\Debug\TriangleOfDollarsWithNestedLoops.pdb
