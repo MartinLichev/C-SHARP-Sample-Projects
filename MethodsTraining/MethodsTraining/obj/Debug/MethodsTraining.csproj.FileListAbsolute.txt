@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodsTraining\bin\Debug\MethodsTraining.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodsTraining\bin\Debug\MethodsTraining.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodsTraining\bin\Debug\MethodsTraining.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodsTraining\obj\Debug\MethodsTraining.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodsTraining\obj\Debug\MethodsTraining.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodsTraining\obj\Debug\MethodsTraining.pdb
