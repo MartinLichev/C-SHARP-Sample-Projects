@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\PrintingNumbersInSpaceWithLoop\PrintingNumbersInSpaceWithLoop\bin\Debug\PrintingNumbersInSpaceWithLoop.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\PrintingNumbersInSpaceWithLoop\PrintingNumbersInSpaceWithLoop\bin\Debug\PrintingNumbersInSpaceWithLoop.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\PrintingNumbersInSpaceWithLoop\PrintingNumbersInSpaceWithLoop\bin\Debug\PrintingNumbersInSpaceWithLoop.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\PrintingNumbersInSpaceWithLoop\PrintingNumbersInSpaceWithLoop\obj\Debug\PrintingNumbersInSpaceWithLoop.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\PrintingNumbersInSpaceWithLoop\PrintingNumbersInSpaceWithLoop\obj\Debug\PrintingNumbersInSpaceWithLoop.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\PrintingNumbersInSpaceWithLoop\PrintingNumbersInSpaceWithLoop\obj\Debug\PrintingNumbersInSpaceWithLoop.pdb
