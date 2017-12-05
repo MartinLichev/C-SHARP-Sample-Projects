@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\FindingTheLargestValueWithMethod\FindingTheLargestValueWithMethod\bin\Debug\FindingTheLargestValueWithMethod.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\FindingTheLargestValueWithMethod\FindingTheLargestValueWithMethod\obj\Debug\FindingTheLargestValueWithMethod.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\FindingTheLargestValueWithMethod\FindingTheLargestValueWithMethod\bin\Debug\FindingTheLargestValueWithMethod.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\FindingTheLargestValueWithMethod\FindingTheLargestValueWithMethod\bin\Debug\FindingTheLargestValueWithMethod.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\FindingTheLargestValueWithMethod\FindingTheLargestValueWithMethod\obj\Debug\FindingTheLargestValueWithMethod.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\FindingTheLargestValueWithMethod\FindingTheLargestValueWithMethod\obj\Debug\FindingTheLargestValueWithMethod.pdb
