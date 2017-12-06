@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\TwoNumbersEquality\bin\Debug\TwoNumbersEquality.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\TwoNumbersEquality\bin\Debug\TwoNumbersEquality.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\TwoNumbersEquality\bin\Debug\TwoNumbersEquality.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\TwoNumbersEquality\obj\Debug\TwoNumbersEquality.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\TwoNumbersEquality\obj\Debug\TwoNumbersEquality.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\TwoNumbersEquality\obj\Debug\TwoNumbersEquality.pdb
