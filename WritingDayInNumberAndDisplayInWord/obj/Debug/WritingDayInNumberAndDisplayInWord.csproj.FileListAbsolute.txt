@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\WritingDayInNumberAndDisplayInWord\bin\Debug\WritingDayInNumberAndDisplayInWord.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\WritingDayInNumberAndDisplayInWord\bin\Debug\WritingDayInNumberAndDisplayInWord.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\WritingDayInNumberAndDisplayInWord\bin\Debug\WritingDayInNumberAndDisplayInWord.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\WritingDayInNumberAndDisplayInWord\obj\Debug\WritingDayInNumberAndDisplayInWord.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\WritingDayInNumberAndDisplayInWord\obj\Debug\WritingDayInNumberAndDisplayInWord.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\WritingDayInNumberAndDisplayInWord\obj\Debug\WritingDayInNumberAndDisplayInWord.csprojResolveAssemblyReference.cache

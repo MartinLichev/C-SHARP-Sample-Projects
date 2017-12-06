@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\VotingEligibility\bin\Debug\VotingEligibility.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\VotingEligibility\bin\Debug\VotingEligibility.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\VotingEligibility\bin\Debug\VotingEligibility.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\VotingEligibility\obj\Debug\VotingEligibility.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\VotingEligibility\obj\Debug\VotingEligibility.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\VotingEligibility\obj\Debug\VotingEligibility.pdb
