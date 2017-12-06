@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CalculatingElectricityBill\bin\Debug\CalculatingElectricityBill.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CalculatingElectricityBill\bin\Debug\CalculatingElectricityBill.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CalculatingElectricityBill\bin\Debug\CalculatingElectricityBill.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CalculatingElectricityBill\obj\Debug\CalculatingElectricityBill.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CalculatingElectricityBill\obj\Debug\CalculatingElectricityBill.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CalculatingElectricityBill\obj\Debug\CalculatingElectricityBill.pdb

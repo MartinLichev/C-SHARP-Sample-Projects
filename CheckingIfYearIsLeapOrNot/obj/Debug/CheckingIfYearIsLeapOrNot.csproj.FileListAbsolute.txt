@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CheckingIfYearIsLeapOrNot\bin\Debug\CheckingIfYearIsLeapOrNot.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CheckingIfYearIsLeapOrNot\bin\Debug\CheckingIfYearIsLeapOrNot.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CheckingIfYearIsLeapOrNot\bin\Debug\CheckingIfYearIsLeapOrNot.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CheckingIfYearIsLeapOrNot\obj\Debug\CheckingIfYearIsLeapOrNot.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\CheckingIfYearIsLeapOrNot\obj\Debug\CheckingIfYearIsLeapOrNot.pdb
