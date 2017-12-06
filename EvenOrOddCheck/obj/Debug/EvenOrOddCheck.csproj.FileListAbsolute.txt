@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\EvenOrOddCheck\bin\Debug\EvenOrOddCheck.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\EvenOrOddCheck\bin\Debug\EvenOrOddCheck.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\EvenOrOddCheck\bin\Debug\EvenOrOddCheck.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\EvenOrOddCheck\obj\Debug\EvenOrOddCheck.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\EvenOrOddCheck\obj\Debug\EvenOrOddCheck.pdb

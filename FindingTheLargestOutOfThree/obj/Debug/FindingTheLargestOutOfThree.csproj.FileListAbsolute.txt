@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\FindingTheLargestOutOfThree\bin\Debug\FindingTheLargestOutOfThree.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\FindingTheLargestOutOfThree\bin\Debug\FindingTheLargestOutOfThree.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\FindingTheLargestOutOfThree\bin\Debug\FindingTheLargestOutOfThree.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\FindingTheLargestOutOfThree\obj\Debug\FindingTheLargestOutOfThree.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\FindingTheLargestOutOfThree\obj\Debug\FindingTheLargestOutOfThree.pdb
