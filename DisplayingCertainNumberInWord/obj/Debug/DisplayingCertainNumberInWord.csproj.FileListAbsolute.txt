@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\DisplayingCertainNumberInWord\bin\Debug\DisplayingCertainNumberInWord.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\DisplayingCertainNumberInWord\bin\Debug\DisplayingCertainNumberInWord.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\DisplayingCertainNumberInWord\bin\Debug\DisplayingCertainNumberInWord.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\DisplayingCertainNumberInWord\obj\Debug\DisplayingCertainNumberInWord.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\DisplayingCertainNumberInWord\obj\Debug\DisplayingCertainNumberInWord.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\DisplayingCertainNumberInWord\obj\Debug\DisplayingCertainNumberInWord.pdb
