@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\PrintingNameOfMothByInput\bin\Debug\PrintingNameOfMothByInput.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\PrintingNameOfMothByInput\bin\Debug\PrintingNameOfMothByInput.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\PrintingNameOfMothByInput\bin\Debug\PrintingNameOfMothByInput.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\PrintingNameOfMothByInput\obj\Debug\PrintingNameOfMothByInput.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\PrintingNameOfMothByInput\obj\Debug\PrintingNameOfMothByInput.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TasksWithConditionalStatement\PrintingNameOfMothByInput\obj\Debug\PrintingNameOfMothByInput.pdb
