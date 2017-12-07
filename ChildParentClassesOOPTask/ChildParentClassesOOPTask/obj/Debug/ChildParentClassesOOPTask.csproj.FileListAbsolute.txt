@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\ChildParentClassesOOPTask\ChildParentClassesOOPTask\bin\Debug\ChildParentClassesOOPTask.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\ChildParentClassesOOPTask\ChildParentClassesOOPTask\bin\Debug\ChildParentClassesOOPTask.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\ChildParentClassesOOPTask\ChildParentClassesOOPTask\bin\Debug\ChildParentClassesOOPTask.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\ChildParentClassesOOPTask\ChildParentClassesOOPTask\obj\Debug\ChildParentClassesOOPTask.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\ChildParentClassesOOPTask\ChildParentClassesOOPTask\obj\Debug\ChildParentClassesOOPTask.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\ChildParentClassesOOPTask\ChildParentClassesOOPTask\obj\Debug\ChildParentClassesOOPTask.pdb
