@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\TwoDogs\TwoDogs\bin\Debug\TwoDogs.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\TwoDogs\TwoDogs\bin\Debug\TwoDogs.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TwoDogs\TwoDogs\bin\Debug\TwoDogs.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\TwoDogs\TwoDogs\obj\Debug\TwoDogsOOPTask.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\TwoDogs\TwoDogs\obj\Debug\TwoDogs.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\TwoDogs\TwoDogs\obj\Debug\TwoDogs.pdb
