@@ -1,0 +1,14 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\ClientStartup.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\ClientStartup.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\ClientStartup.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\EntityFramework.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\SchoolsSystem.Model.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\ShoolsSystem.Data.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\SchoolsSystem.Model.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\ShoolsSystem.Data.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\EntityFramework.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\obj\Debug\ClientStartup.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\obj\Debug\ClientStartup.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\SchoolsSystem\ClientStartup\obj\Debug\ClientStartup.pdb
