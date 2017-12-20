@@ -1,0 +1,16 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\DataBaseTest.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\DataBaseTest.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\DataBaseTest.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\BusinessObjects.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\DataAccessLayer.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\DataEntity.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\EntityFramework.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\BusinessObjects.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\DataAccessLayer.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\DataEntity.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\EntityFramework.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\obj\Debug\DataBaseTest.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\obj\Debug\DataBaseTest.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\ToysAndToysStoresSystem\DataBaseTest\obj\Debug\DataBaseTest.pdb
