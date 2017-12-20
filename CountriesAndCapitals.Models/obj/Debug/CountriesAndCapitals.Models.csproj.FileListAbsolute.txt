@@ -1,0 +1,10 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\bin\Debug\CountriesAndCapitals.Models.dll.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\bin\Debug\CountriesAndCapitals.Models.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\bin\Debug\CountriesAndCapitals.Models.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\bin\Debug\EntityFramework.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\bin\Debug\EntityFramework.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\obj\Debug\CountriesAndCapitals.Models.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\obj\Debug\CountriesAndCapitals.Models.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\CountriesAndCapitals.Models\obj\Debug\CountriesAndCapitals.Models.pdb
