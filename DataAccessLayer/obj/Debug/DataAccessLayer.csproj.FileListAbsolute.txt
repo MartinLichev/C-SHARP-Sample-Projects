@@ -1,0 +1,14 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\CountriesAndCapitals.Data.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\CountriesAndCapitals.Models.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\EntityFramework.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\CountriesAndCapitals.Data.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\CountriesAndCapitals.Models.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\EntityFramework.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\EntityFrameworkCodeFirstApproach\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
