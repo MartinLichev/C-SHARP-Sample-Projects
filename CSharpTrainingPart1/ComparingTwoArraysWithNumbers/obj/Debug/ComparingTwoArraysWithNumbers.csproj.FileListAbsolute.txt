@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ComparingTwoArraysWithNumbers\bin\Debug\ComparingTwoArraysWithNumbers.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ComparingTwoArraysWithNumbers\bin\Debug\ComparingTwoArraysWithNumbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ComparingTwoArraysWithNumbers\bin\Debug\ComparingTwoArraysWithNumbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ComparingTwoArraysWithNumbers\obj\Debug\ComparingTwoArraysWithNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ComparingTwoArraysWithNumbers\obj\Debug\ComparingTwoArraysWithNumbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ComparingTwoArraysWithNumbers\obj\Debug\ComparingTwoArraysWithNumbers.pdb

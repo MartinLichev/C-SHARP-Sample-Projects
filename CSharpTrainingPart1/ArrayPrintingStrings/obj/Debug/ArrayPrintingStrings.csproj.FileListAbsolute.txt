@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ArrayPrintingStrings\bin\Debug\ArrayPrintingStrings.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ArrayPrintingStrings\bin\Debug\ArrayPrintingStrings.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ArrayPrintingStrings\bin\Debug\ArrayPrintingStrings.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ArrayPrintingStrings\obj\Debug\ArrayPrintingStrings.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ArrayPrintingStrings\obj\Debug\ArrayPrintingStrings.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ArrayPrintingStrings\obj\Debug\ArrayPrintingStrings.pdb

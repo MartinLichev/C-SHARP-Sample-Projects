@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\CalculatingBonusPointsOutOfGame\bin\Debug\CalculatingBonusPointsOutOfGame.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\CalculatingBonusPointsOutOfGame\bin\Debug\CalculatingBonusPointsOutOfGame.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\CalculatingBonusPointsOutOfGame\bin\Debug\CalculatingBonusPointsOutOfGame.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\CalculatingBonusPointsOutOfGame\obj\Debug\CalculatingBonusPointsOutOfGame.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\CalculatingBonusPointsOutOfGame\obj\Debug\CalculatingBonusPointsOutOfGame.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\CalculatingBonusPointsOutOfGame\obj\Debug\CalculatingBonusPointsOutOfGame.pdb
