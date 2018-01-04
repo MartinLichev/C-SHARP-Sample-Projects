@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingAreaOfCircle\bin\Debug\FindingAreaOfCircle.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingAreaOfCircle\bin\Debug\FindingAreaOfCircle.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingAreaOfCircle\bin\Debug\FindingAreaOfCircle.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingAreaOfCircle\obj\Debug\FindingAreaOfCircle.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingAreaOfCircle\obj\Debug\FindingAreaOfCircle.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingAreaOfCircle\obj\Debug\FindingAreaOfCircle.pdb

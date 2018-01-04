@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestAmong10Numbers\bin\Debug\FindingLargestAmong10Numbers.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestAmong10Numbers\bin\Debug\FindingLargestAmong10Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestAmong10Numbers\bin\Debug\FindingLargestAmong10Numbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestAmong10Numbers\obj\Debug\FindingLargestAmong10Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestAmong10Numbers\obj\Debug\FindingLargestAmong10Numbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestAmong10Numbers\obj\Debug\FindingLargestAmong10Numbers.csprojResolveAssemblyReference.cache

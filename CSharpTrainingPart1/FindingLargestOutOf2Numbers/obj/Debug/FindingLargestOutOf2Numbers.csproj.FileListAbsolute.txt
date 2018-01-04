@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestOutOf2Numbers\bin\Debug\FindingLargestOutOf2Numbers.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestOutOf2Numbers\bin\Debug\FindingLargestOutOf2Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestOutOf2Numbers\bin\Debug\FindingLargestOutOf2Numbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestOutOf2Numbers\obj\Debug\FindingLargestOutOf2Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingLargestOutOf2Numbers\obj\Debug\FindingLargestOutOf2Numbers.pdb
