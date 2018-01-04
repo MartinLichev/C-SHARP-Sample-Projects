@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfWhileLoop\bin\Debug\UsageOfWhileLoop.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfWhileLoop\bin\Debug\UsageOfWhileLoop.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfWhileLoop\bin\Debug\UsageOfWhileLoop.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfWhileLoop\obj\Debug\UsageOfWhileLoop.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfWhileLoop\obj\Debug\UsageOfWhileLoop.pdb

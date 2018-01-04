@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfDoWhileLoop\bin\Debug\UsageOfDoWhileLoop.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfDoWhileLoop\bin\Debug\UsageOfDoWhileLoop.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfDoWhileLoop\bin\Debug\UsageOfDoWhileLoop.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfDoWhileLoop\obj\Debug\UsageOfDoWhileLoop.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\UsageOfDoWhileLoop\obj\Debug\UsageOfDoWhileLoop.pdb
