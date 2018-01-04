@@ -1,0 +1,5 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\SumUpOf4Numbers\bin\Debug\SumUpOf4Numbers.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\SumUpOf4Numbers\bin\Debug\SumUpOf4Numbers.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\SumUpOf4Numbers\bin\Debug\SumUpOf4Numbers.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\SumUpOf4Numbers\obj\Debug\SumUpOf4Numbers.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\SumUpOf4Numbers\obj\Debug\SumUpOf4Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\StringOperations\bin\Debug\StringOperations.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\StringOperations\bin\Debug\StringOperations.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\StringOperations\bin\Debug\StringOperations.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\StringOperations\obj\Debug\StringOperations.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\StringOperations\obj\Debug\StringOperations.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\StringOperations\obj\Debug\StringOperations.pdb

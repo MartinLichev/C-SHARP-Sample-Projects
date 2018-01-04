@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\TwoArraysFilling\bin\Debug\TwoArraysFilling.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\TwoArraysFilling\bin\Debug\TwoArraysFilling.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\TwoArraysFilling\bin\Debug\TwoArraysFilling.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\TwoArraysFilling\obj\Debug\TwoArraysFilling.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\TwoArraysFilling\obj\Debug\TwoArraysFilling.pdb
