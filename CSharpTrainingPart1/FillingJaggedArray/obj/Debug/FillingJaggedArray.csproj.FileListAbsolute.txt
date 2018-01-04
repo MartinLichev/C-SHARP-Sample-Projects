@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingJaggedArray\bin\Debug\FillingJaggedArray.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingJaggedArray\bin\Debug\FillingJaggedArray.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingJaggedArray\bin\Debug\FillingJaggedArray.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingJaggedArray\obj\Debug\FillingJaggedArray.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingJaggedArray\obj\Debug\FillingJaggedArray.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingJaggedArray\obj\Debug\FillingJaggedArray.pdb

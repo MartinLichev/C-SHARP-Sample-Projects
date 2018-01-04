@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrix\bin\Debug\FillingMatrix.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrix\bin\Debug\FillingMatrix.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrix\bin\Debug\FillingMatrix.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrix\obj\Debug\FillingMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrix\obj\Debug\FillingMatrix.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrix\obj\Debug\FillingMatrix.pdb

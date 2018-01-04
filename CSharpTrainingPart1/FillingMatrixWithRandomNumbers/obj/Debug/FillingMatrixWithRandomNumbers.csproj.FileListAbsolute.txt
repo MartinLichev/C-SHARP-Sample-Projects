@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrixWithRandomNumbers\bin\Debug\FillingMatrixWithRandomNumbers.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrixWithRandomNumbers\bin\Debug\FillingMatrixWithRandomNumbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrixWithRandomNumbers\bin\Debug\FillingMatrixWithRandomNumbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrixWithRandomNumbers\obj\Debug\FillingMatrixWithRandomNumbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrixWithRandomNumbers\obj\Debug\FillingMatrixWithRandomNumbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FillingMatrixWithRandomNumbers\obj\Debug\FillingMatrixWithRandomNumbers.csprojResolveAssemblyReference.cache
