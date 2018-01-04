@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Printing NumbersFrom1ToNWithLoops\bin\Debug\Printing NumbersFrom1ToNWithLoops.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Printing NumbersFrom1ToNWithLoops\bin\Debug\Printing NumbersFrom1ToNWithLoops.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Printing NumbersFrom1ToNWithLoops\bin\Debug\Printing NumbersFrom1ToNWithLoops.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Printing NumbersFrom1ToNWithLoops\obj\Debug\Printing NumbersFrom1ToNWithLoops.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Printing NumbersFrom1ToNWithLoops\obj\Debug\Printing NumbersFrom1ToNWithLoops.pdb

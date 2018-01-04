@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ShowingQuotientSign\bin\Debug\ShowingQuotientSign.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ShowingQuotientSign\bin\Debug\ShowingQuotientSign.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ShowingQuotientSign\bin\Debug\ShowingQuotientSign.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ShowingQuotientSign\obj\Debug\ShowingQuotientSign.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\ShowingQuotientSign\obj\Debug\ShowingQuotientSign.pdb
