@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3NumbersWithLoops\bin\Debug\FindingTheLargestOutOf3NumbersWithLoops.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3NumbersWithLoops\bin\Debug\FindingTheLargestOutOf3NumbersWithLoops.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3NumbersWithLoops\bin\Debug\FindingTheLargestOutOf3NumbersWithLoops.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3NumbersWithLoops\obj\Debug\FindingTheLargestOutOf3NumbersWithLoops.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3NumbersWithLoops\obj\Debug\FindingTheLargestOutOf3NumbersWithLoops.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3NumbersWithLoops\obj\Debug\FindingTheLargestOutOf3NumbersWithLoops.csprojResolveAssemblyReference.cache

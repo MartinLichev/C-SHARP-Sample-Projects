@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestValueOutOfArray\bin\Debug\FindingTheLargestValueOutOfArray.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestValueOutOfArray\bin\Debug\FindingTheLargestValueOutOfArray.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestValueOutOfArray\bin\Debug\FindingTheLargestValueOutOfArray.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestValueOutOfArray\obj\Debug\FindingTheLargestValueOutOfArray.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestValueOutOfArray\obj\Debug\FindingTheLargestValueOutOfArray.pdb

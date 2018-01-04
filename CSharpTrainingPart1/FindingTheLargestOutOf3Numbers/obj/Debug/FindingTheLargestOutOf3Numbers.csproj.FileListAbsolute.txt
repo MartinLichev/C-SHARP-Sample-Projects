@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3Numbers\bin\Debug\FindingTheLargestOutOf3Numbers.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3Numbers\bin\Debug\FindingTheLargestOutOf3Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3Numbers\bin\Debug\FindingTheLargestOutOf3Numbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3Numbers\obj\Debug\FindingTheLargestOutOf3Numbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingTheLargestOutOf3Numbers\obj\Debug\FindingTheLargestOutOf3Numbers.pdb
