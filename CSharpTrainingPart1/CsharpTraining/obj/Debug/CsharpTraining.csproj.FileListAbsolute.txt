@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\CsharpTraining\bin\Debug\CsharpTraining.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\CsharpTraining\bin\Debug\CsharpTraining.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\CsharpTraining\bin\Debug\CsharpTraining.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\CsharpTraining\obj\Debug\CsharpTraining.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\CsharpTraining\obj\Debug\CsharpTraining.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\CsharpTraining\CsharpTraining\obj\Debug\CsharpTraining.pdb

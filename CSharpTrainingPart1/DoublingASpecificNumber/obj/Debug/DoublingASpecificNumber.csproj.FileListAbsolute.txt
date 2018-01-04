@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\DoublingASpecificNumber\bin\Debug\DoublingASpecificNumber.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\DoublingASpecificNumber\bin\Debug\DoublingASpecificNumber.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\DoublingASpecificNumber\bin\Debug\DoublingASpecificNumber.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\DoublingASpecificNumber\obj\Debug\DoublingASpecificNumber.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\DoublingASpecificNumber\obj\Debug\DoublingASpecificNumber.pdb

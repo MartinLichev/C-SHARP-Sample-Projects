@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Displaying Numbers (0-9) In English Words\bin\Debug\Displaying Numbers (0-9) In English Words.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Displaying Numbers (0-9) In English Words\bin\Debug\Displaying Numbers (0-9) In English Words.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Displaying Numbers (0-9) In English Words\bin\Debug\Displaying Numbers (0-9) In English Words.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Displaying Numbers (0-9) In English Words\obj\Debug\Displaying Numbers (0-9) In English Words.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Displaying Numbers (0-9) In English Words\obj\Debug\Displaying Numbers (0-9) In English Words.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\Displaying Numbers (0-9) In English Words\obj\Debug\Displaying Numbers (0-9) In English Words.pdb

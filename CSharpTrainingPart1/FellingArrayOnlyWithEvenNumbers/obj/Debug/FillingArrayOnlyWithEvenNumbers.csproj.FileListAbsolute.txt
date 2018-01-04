@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FellingArrayOnlyWithEvenNumbers\bin\Debug\FellingArrayOnlyWithEvenNumbers.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FellingArrayOnlyWithEvenNumbers\bin\Debug\FellingArrayOnlyWithEvenNumbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FellingArrayOnlyWithEvenNumbers\bin\Debug\FellingArrayOnlyWithEvenNumbers.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FellingArrayOnlyWithEvenNumbers\obj\Debug\FellingArrayOnlyWithEvenNumbers.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FellingArrayOnlyWithEvenNumbers\obj\Debug\FellingArrayOnlyWithEvenNumbers.pdb
