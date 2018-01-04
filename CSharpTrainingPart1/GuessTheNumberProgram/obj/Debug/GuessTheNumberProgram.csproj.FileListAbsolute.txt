@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\GuessTheNumberProgram\bin\Debug\GuessTheNumberProgram.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\GuessTheNumberProgram\bin\Debug\GuessTheNumberProgram.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\GuessTheNumberProgram\bin\Debug\GuessTheNumberProgram.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\GuessTheNumberProgram\obj\Debug\GuessTheNumberProgram.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\GuessTheNumberProgram\obj\Debug\GuessTheNumberProgram.pdb

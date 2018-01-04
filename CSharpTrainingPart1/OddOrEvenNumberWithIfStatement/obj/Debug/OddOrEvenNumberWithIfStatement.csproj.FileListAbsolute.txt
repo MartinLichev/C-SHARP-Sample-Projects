@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\OddOrEvenNumberWithIfStatement\bin\Debug\OddOrEvenNumberWithIfStatement.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\OddOrEvenNumberWithIfStatement\bin\Debug\OddOrEvenNumberWithIfStatement.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\OddOrEvenNumberWithIfStatement\bin\Debug\OddOrEvenNumberWithIfStatement.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\OddOrEvenNumberWithIfStatement\obj\Debug\OddOrEvenNumberWithIfStatement.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\OddOrEvenNumberWithIfStatement\obj\Debug\OddOrEvenNumberWithIfStatement.pdb
