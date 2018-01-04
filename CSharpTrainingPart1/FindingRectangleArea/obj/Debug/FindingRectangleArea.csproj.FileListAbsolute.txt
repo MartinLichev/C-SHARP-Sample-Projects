@@ -1,0 +1,1 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingRectangleArea\bin\Debug\FindingRectangleArea.exe.config

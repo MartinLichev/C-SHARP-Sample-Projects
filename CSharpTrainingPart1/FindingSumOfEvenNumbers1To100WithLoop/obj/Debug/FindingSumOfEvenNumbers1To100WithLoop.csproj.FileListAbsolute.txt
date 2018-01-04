@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOfEvenNumbers1To100WithLoop\bin\Debug\FindingSumOfEvenNumbers1To100WithLoop.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOfEvenNumbers1To100WithLoop\bin\Debug\FindingSumOfEvenNumbers1To100WithLoop.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOfEvenNumbers1To100WithLoop\bin\Debug\FindingSumOfEvenNumbers1To100WithLoop.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOfEvenNumbers1To100WithLoop\obj\Debug\FindingSumOfEvenNumbers1To100WithLoop.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOfEvenNumbers1To100WithLoop\obj\Debug\FindingSumOfEvenNumbers1To100WithLoop.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOf5NumbersInArray\bin\Debug\FindingSumOf5NumbersInArray.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOf5NumbersInArray\bin\Debug\FindingSumOf5NumbersInArray.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOf5NumbersInArray\bin\Debug\FindingSumOf5NumbersInArray.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOf5NumbersInArray\obj\Debug\FindingSumOf5NumbersInArray.csprojResolveAssemblyReference.cache
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOf5NumbersInArray\obj\Debug\FindingSumOf5NumbersInArray.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingSumOf5NumbersInArray\obj\Debug\FindingSumOf5NumbersInArray.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingNFactorielWithLoop\bin\Debug\FindingNFactorielWithLoop.exe.config
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingNFactorielWithLoop\bin\Debug\FindingNFactorielWithLoop.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingNFactorielWithLoop\bin\Debug\FindingNFactorielWithLoop.pdb
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingNFactorielWithLoop\obj\Debug\FindingNFactorielWithLoop.exe
+C:\Users\Marmitonko\Documents\Visual Studio 2015\Projects\CsharpTraining\FindingNFactorielWithLoop\obj\Debug\FindingNFactorielWithLoop.pdb
