@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOPTraining\MotorVehicle\bin\Debug\MotorVehicle.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOPTraining\MotorVehicle\bin\Debug\MotorVehicle.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOPTraining\MotorVehicle\bin\Debug\MotorVehicle.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOPTraining\MotorVehicle\obj\Debug\MotorVehicle.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOPTraining\MotorVehicle\obj\Debug\MotorVehicle.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\OOPTraining\MotorVehicle\obj\Debug\MotorVehicle.pdb
