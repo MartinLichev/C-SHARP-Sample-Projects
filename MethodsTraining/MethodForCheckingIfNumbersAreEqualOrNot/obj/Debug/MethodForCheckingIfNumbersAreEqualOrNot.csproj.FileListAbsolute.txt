@@ -1,0 +1,6 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodForCheckingIfNumbersAreEqualOrNot\bin\Debug\MethodForCheckingIfNumbersAreEqualOrNot.exe.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodForCheckingIfNumbersAreEqualOrNot\bin\Debug\MethodForCheckingIfNumbersAreEqualOrNot.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodForCheckingIfNumbersAreEqualOrNot\bin\Debug\MethodForCheckingIfNumbersAreEqualOrNot.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodForCheckingIfNumbersAreEqualOrNot\obj\Debug\MethodForCheckingIfNumbersAreEqualOrNot.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodForCheckingIfNumbersAreEqualOrNot\obj\Debug\MethodForCheckingIfNumbersAreEqualOrNot.exe
+c:\users\marmitonko\documents\visual studio 2015\Projects\MethodsTraining\MethodForCheckingIfNumbersAreEqualOrNot\obj\Debug\MethodForCheckingIfNumbersAreEqualOrNot.pdb

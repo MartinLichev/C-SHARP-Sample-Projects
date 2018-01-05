@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleDisplayWithSpecificNumber", "MethodsTraining\TriangleDisplayWithSpecificNumber.csproj", "{AAF7E3AD-2C47-40B3-801B-6B280BBF20AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodWithArrayOfNumbers", "MethodWithArrayOfNumbers\MethodWithArrayOfNumbers.csproj", "{E60E3FEB-8595-4849-82B6-632558967C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodForDisplayingNameAndAge", "MethodForDisplayingNameAndAge\MethodForDisplayingNameAndAge.csproj", "{8C13EA98-26A4-4D78-9F16-33468789E142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodForChekingIfNumberExistsInArrayOrNot", "MethodForChekingIfNumberExistsInArrayOrNot\MethodForChekingIfNumberExistsInArrayOrNot.csproj", "{F3F8567B-1574-4997-BB37-BC99944C2DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodForCheckingIfNumbersAreEqualOrNot", "MethodForCheckingIfNumbersAreEqualOrNot\MethodForCheckingIfNumbersAreEqualOrNot.csproj", "{B421D420-2BD3-472D-A293-DFC5EF4C65A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AAF7E3AD-2C47-40B3-801B-6B280BBF20AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAF7E3AD-2C47-40B3-801B-6B280BBF20AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAF7E3AD-2C47-40B3-801B-6B280BBF20AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAF7E3AD-2C47-40B3-801B-6B280BBF20AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60E3FEB-8595-4849-82B6-632558967C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60E3FEB-8595-4849-82B6-632558967C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60E3FEB-8595-4849-82B6-632558967C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60E3FEB-8595-4849-82B6-632558967C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C13EA98-26A4-4D78-9F16-33468789E142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C13EA98-26A4-4D78-9F16-33468789E142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C13EA98-26A4-4D78-9F16-33468789E142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C13EA98-26A4-4D78-9F16-33468789E142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F8567B-1574-4997-BB37-BC99944C2DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F8567B-1574-4997-BB37-BC99944C2DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F8567B-1574-4997-BB37-BC99944C2DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F8567B-1574-4997-BB37-BC99944C2DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B421D420-2BD3-472D-A293-DFC5EF4C65A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B421D420-2BD3-472D-A293-DFC5EF4C65A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B421D420-2BD3-472D-A293-DFC5EF4C65A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B421D420-2BD3-472D-A293-DFC5EF4C65A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
