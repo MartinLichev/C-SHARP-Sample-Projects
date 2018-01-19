@@ -1,0 +1,10 @@
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\bin\Debug\BusinessObjects.dll.config
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\bin\Debug\BusinessObjects.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\bin\Debug\BusinessObjects.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\bin\Debug\DataEntity.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\bin\Debug\EntityFramework.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\bin\Debug\DataEntity.pdb
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\bin\Debug\EntityFramework.xml
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\obj\Debug\BusinessObjects.dll
+c:\users\marmitonko\documents\visual studio 2015\Projects\Library\BusinessObjects\obj\Debug\BusinessObjects.pdb
